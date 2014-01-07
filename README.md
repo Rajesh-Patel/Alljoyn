@@ -7,9 +7,9 @@ Steps to comiple Alljoyn Framework for IOS
 01. Install Command Line Tools for XCode
 02. Download OpenSSL from http://www.openssl.org/ or directly from www.openssl.org/source/openssl-1.0.1e.tar.gz
 03. Download the Xcode project that can be used to build OpenSSL for iOS from GitHub from the following web address: https://github.com/sqlcipher/openssl-xcode/
-04. Extract downloaded project from step 2
-05. Copy openssl-1.0.1e.tar.gz downloaded file in step-1 to extracted folder in step-3
-06. extract openssl-1.0.1e.tar.gz in folder created in step-3
+04. Extract downloaded project from step 3
+05. Copy openssl-1.0.1e.tar.gz downloaded file in step-2 to extracted folder in step-4
+06. extract openssl-1.0.1e.tar.gz in folder created in step-5
 07. Open openssl.xcodeproj created in step-3
 08. Build crypto for all different - different available platform
 09. in X-Code find libcrypto.a under Products under openssl
